@@ -1,1 +1,1 @@
-# StrongPasswordGenerator
+This basic python program allows an user to create a strong password with a combination of characters,numbers and symbols.The user only need to enter the length of the password required and a random password gets generated.
