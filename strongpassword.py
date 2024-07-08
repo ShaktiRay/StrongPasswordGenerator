@@ -37,7 +37,7 @@ while True:
 		user_input = input("How many characters do you want in your password? ")
 
 
-# shuffle all lists
+
 random.shuffle(s1)
 random.shuffle(s2)
 random.shuffle(s3)
